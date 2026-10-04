@@ -1,0 +1,12 @@
+{"timestamp": "2026-10-04T15:21:48.104342+00:00", "run_id": "a37578e1-90f8-404b-811c-a7ceda0c2476", "region": "Guntur", "decision": "approve", "reviewer_note": ""}
+{"timestamp": "2026-10-04T15:21:48.105136+00:00", "run_id": "9bde6f95-212b-485d-b25e-bb4e4f34601c", "region": "Guntur", "decision": "edit", "reviewer_note": ""}
+{"timestamp": "2026-10-04T15:21:48.105415+00:00", "run_id": "d8a6f173-c72e-4068-b0f7-a25098113ff4", "region": "Guntur", "decision": "reject", "reviewer_note": ""}
+{"timestamp": "2026-10-04T15:22:46.449078+00:00", "run_id": "640cd458-cee2-429d-b374-d7e4fe3dc639", "region": "Guntur", "decision": "approve", "reviewer_note": "Approved after checking the computed metrics."}
+{"timestamp": "2026-10-04T15:23:10.461130+00:00", "run_id": "b44177df-ec00-4a98-8dcb-8be2dada1ba6", "region": "Guntur", "decision": "edit", "reviewer_note": "Please revise the wording before downstream use."}
+{"timestamp": "2026-10-04T15:23:30.479601+00:00", "run_id": "51272c61-19e5-4b8b-ab96-b05c03660b75", "region": "Guntur", "decision": "reject", "reviewer_note": "Do not use this report downstream."}
+{"timestamp": "2026-10-04T15:28:58.856633+00:00", "run_id": "0545fcbb-fc59-465c-bdae-397699f119b0", "region": "Guntur", "decision": "approve", "reviewer_note": "Approved for downstream use."}
+{"timestamp": "2026-10-04T15:28:58.856957+00:00", "run_id": "8bbd0e09-8d23-4265-bead-35381db66c6c", "region": "Guntur", "decision": "edit", "reviewer_note": "Needs revision."}
+{"timestamp": "2026-10-04T15:28:58.857180+00:00", "run_id": "02db2875-923f-4501-bc87-f17893d4625c", "region": "Guntur", "decision": "reject", "reviewer_note": "Rejected for downstream use."}
+{"timestamp": "2026-10-04T15:55:36.563698", "run_id": "run_001", "region": "Guntur", "decision": "approve", "reviewer_note": "Metrics verified."}
+{"timestamp": "2026-10-04T15:55:36.563946", "run_id": "run_002", "region": "Guntur", "decision": "edit", "reviewer_note": "Clarify implication."}
+{"timestamp": "2026-10-04T15:55:36.564098", "run_id": "run_003", "region": "Guntur", "decision": "reject", "reviewer_note": "Insufficient supporting evidence."}

@@ -1,0 +1,33 @@
+{
+  "threshold": 8,
+  "changes": {
+    "Hyderabad": 23.61,
+    "Warangal": -14.84,
+    "Vijayawada": -6.43,
+    "Visakhapatnam": 99.11,
+    "Guntur": -28.08,
+    "Tirupati": -17.07,
+    "Karimnagar": -44.0,
+    "Bengaluru": 0.66,
+    "Nellore": 3.52
+  },
+  "flags": {
+    "Hyderabad": true,
+    "Warangal": true,
+    "Vijayawada": false,
+    "Visakhapatnam": true,
+    "Guntur": true,
+    "Tirupati": true,
+    "Karimnagar": true,
+    "Bengaluru": false,
+    "Nellore": false
+  },
+  "significant_regions": [
+    "Hyderabad",
+    "Warangal",
+    "Visakhapatnam",
+    "Guntur",
+    "Tirupati",
+    "Karimnagar"
+  ]
+}
